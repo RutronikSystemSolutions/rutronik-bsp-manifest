@@ -1,0 +1,59 @@
+<boards>
+  <board default_location="local">
+    <id>TARGET_RDK2</id>
+    <category>PSoC&#8482; 6 BSPs</category>
+    <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK2</board_uri>
+    <chips>
+      <mcu>CY8C6245AZI-S3D72</mcu>
+    </chips>
+    <name>RDK2</name>
+    <summary>The Development Kit RDK2 offers a complete solution for hardware and firmware developers and a basis for a modular toolkit, so that proof of concepts can be created in a very short time. All components of the BOM can be found in the Rutronik portfolio.</summary>
+    <prov_capabilities>adc arduino bsp_gen4 can capsense capsense_linear_slider cat1 cat1a comp csd dma flash_512k hal i2c i2s led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm pot psoc6 qspi rtc sdhc smart_io spi sram_256k std_crypto switch uart usb_device usb_host udb</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">RDK2 Features:</div><ul>
+        <li>Ready-to-Use CAPSENSE&#8482; Slider</li>
+        <li>ADAM TECH ADC-028-1-T/R-PA10T DC Connector</li>
+		<li>RS485 Terminal with a SP3078EEN-L/TR driver from MaxLinear.</li>
+		<li>nPM1100 Li-ION Charger from Nordic Semiconductor.</li>
+		<li>Compact and versatile rotary switch from C&K for power sources selection.</li>
+		<li>The Keystone CR1220 coin battery holder.</li>
+		<li>Infineon CY8C6245AZI-S3D72 Ultra-low-power high-performance microcontroller.</li>
+		<li>The DIP switch from DIPTRONICS enables to disconnect of the RESET signal from the Arduino socket.</li>
+		<li>Tiny but useful potentiometer-trimmer with a knob from PIHER.</li>
+		<li>Micro SD Card Socket from ADAM TECH.</li>
+		<li>A stand-alone power delivery controller CYPD3177 from Infineon and Type-C connector from JAE.</li>
+		<li>CAN FD Terminal Minitek MicrospaceTM connector in combination with CAN FD driver TLE9251VLE.</li>
+		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
+		<li>A 512MBit SEMPER™ NOR Flash connected with microcontroller QSPI.</li>
+		<li>The AP Memory 64MBit APS6404L-3SQR-ZR PSRAM connected with microcontroller QSPI.</li>
+		<li>10-pin ARM SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
+		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
+		<li>The Buttons: High quality and durability mechanical buttons from Panasonic.</li>
+		<li>The Onboard Power Management: Based on Diodes and ROHM products.</li>
+        </ul><p/>
+      ]]></description>
+    <documentation_url>https://github.com/RutronikSystemSolutions/RDK2_Documents</documentation_url>
+    <versions>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+	  <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+        <num>Latest v1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+        <num>1.1.0 release</num>
+        <commit>release-v1.1.0</commit>
+      </version>
+      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
+</boards>
