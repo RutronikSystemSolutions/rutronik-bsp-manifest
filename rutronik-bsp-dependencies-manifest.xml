@@ -5,9 +5,9 @@
 	  <version>
         <commit>latest-v2.X</commit>
         <dependees>
-          <dependee>
-            <id>capsense</id>
-            <commit>latest-v2.X</commit>
+		  <dependee>
+            <id>cat1cm0p</id>
+            <commit>latest-v1.X</commit>
           </dependee>
           <dependee>
             <id>core-lib</id>
@@ -26,116 +26,12 @@
             <commit>latest-v3.X</commit>
           </dependee>
           <dependee>
-            <id>psoc6cm0p</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
             <id>recipe-make-cat1a</id>
             <commit>latest-v2.X</commit>
           </dependee>
         </dependees>
       </version>
-	  <version>
-        <commit>release-v2.0.0</commit>
-        <dependees>
-          <dependee>
-            <id>capsense</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-lib</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-make</id>
-            <commit>latest-v3.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-hal-cat1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-pdl-cat1</id>
-            <commit>latest-v3.X</commit>
-          </dependee>
-          <dependee>
-            <id>psoc6cm0p</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>recipe-make-cat1a</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>latest-v1.X</commit>
-        <dependees>
-          <dependee>
-            <id>capsense</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-lib</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-make</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-hal-cat1</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-pdl-cat1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>psoc6cm0p</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>recipe-make-cat1a</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
         <commit>release-v1.1.0</commit>
-        <dependees>
-          <dependee>
-            <id>capsense</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-lib</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>core-make</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-hal-cat1</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-          <dependee>
-            <id>mtb-pdl-cat1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>psoc6cm0p</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>recipe-make-cat1a</id>
-            <commit>latest-v1.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v1.0.0</commit>
         <dependees>
           <dependee>
             <id>capsense</id>
