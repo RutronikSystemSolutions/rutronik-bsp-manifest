@@ -2,7 +2,7 @@
   <board default_location="local">
     <id>TARGET_RDK2</id>
     <category>PSoC&#8482; 6 BSPs</category>
-    <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK2</board_uri>
+    <board_uri>https://github.com/ddka22/TARGET_RDK2</board_uri>
     <chips>
       <mcu>CY8C6245AZI-S3D72</mcu>
     </chips>
@@ -35,22 +35,10 @@
     <documentation_url>https://github.com/RutronikSystemSolutions/RDK2_Documents</documentation_url>
     <versions>
       <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-	  <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
         <num>Latest v1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
-        <num>1.1.0 release</num>
-        <commit>release-v1.1.0</commit>
-      </version>
-      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
