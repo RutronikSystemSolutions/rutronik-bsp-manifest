@@ -1,6 +1,6 @@
 <boards>
   <board default_location="local">
-    <id>TARGET_RDK2</id>
+    <id>RDK2</id>
     <category>PSoC&#8482; 6 BSPs</category>
     <board_uri>https://github.com/ddka22/TARGET_RDK2</board_uri>
     <chips>
