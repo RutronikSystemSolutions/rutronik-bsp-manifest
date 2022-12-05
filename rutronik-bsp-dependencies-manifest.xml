@@ -1,11 +1,11 @@
 <dependencies version="2.0">
   <depender>
-    <id>TARGET_RDK2</id>
+    <id>RDK2</id>
     <versions>
-	  <version>
-        <commit>latest-v2.X</commit>
+      <version>
+        <commit>latest-v1.X</commit>
         <dependees>
-		  <dependee>
+	  <dependee>
             <id>cat1cm0p</id>
             <commit>latest-v1.X</commit>
           </dependee>
@@ -31,11 +31,12 @@
           </dependee>
         </dependees>
       </version>
-        <commit>release-v1.1.0</commit>
+      <version>
+        <commit>release-v1.0.0</commit>
         <dependees>
-          <dependee>
-            <id>capsense</id>
-            <commit>latest-v2.X</commit>
+	  <dependee>
+            <id>cat1cm0p</id>
+            <commit>latest-v1.X</commit>
           </dependee>
           <dependee>
             <id>core-lib</id>
@@ -43,23 +44,19 @@
           </dependee>
           <dependee>
             <id>core-make</id>
-            <commit>latest-v1.X</commit>
+            <commit>latest-v3.X</commit>
           </dependee>
           <dependee>
             <id>mtb-hal-cat1</id>
-            <commit>latest-v1.X</commit>
+            <commit>latest-v2.X</commit>
           </dependee>
           <dependee>
             <id>mtb-pdl-cat1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-          <dependee>
-            <id>psoc6cm0p</id>
-            <commit>latest-v2.X</commit>
+            <commit>latest-v3.X</commit>
           </dependee>
           <dependee>
             <id>recipe-make-cat1a</id>
-            <commit>latest-v1.X</commit>
+            <commit>latest-v2.X</commit>
           </dependee>
         </dependees>
       </version>
