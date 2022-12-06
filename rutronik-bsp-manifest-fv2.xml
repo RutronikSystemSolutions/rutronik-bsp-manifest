@@ -1,6 +1,6 @@
 <boards>
   <board default_location="local">
-    <id>TARGET_RDK2</id>
+    <id>RDK2</id>
     <category>PSoC&#8482; 6 BSPs</category>
     <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK2</board_uri>
     <chips>
@@ -8,7 +8,7 @@
     </chips>
     <name>RDK2</name>
     <summary>The Development Kit RDK2 offers a complete solution for hardware and firmware developers and a basis for a modular toolkit, so that proof of concepts can be created in a very short time. All components of the BOM can be found in the Rutronik portfolio.</summary>
-    <prov_capabilities>adc arduino bsp_gen4 can capsense capsense_linear_slider cat1 cat1a comp csd dma flash_512k hal i2c i2s led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm pot psoc6 qspi rtc sdhc smart_io spi sram_256k std_crypto switch uart usb_device usb_host udb</prov_capabilities>
+    <prov_capabilities>adc arduino bsp_gen4 can capsense capsense_linear_slider cat1 cat1a comp csd dma flash_512k hal i2c i2s led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm pot psoc6 qspi rdk2 rtc sdhc smart_io spi sram_256k std_crypto switch uart usb_device usb_host udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK2 Features:</div><ul>
         <li>Ready-to-Use CAPSENSE&#8482; Slider</li>
@@ -35,22 +35,10 @@
     <documentation_url>https://github.com/RutronikSystemSolutions/RDK2_Documents</documentation_url>
     <versions>
       <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-	  <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
         <num>Latest v1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
-        <num>1.1.0 release</num>
-        <commit>release-v1.1.0</commit>
-      </version>
-      <version tools_min_version="2.4.0" flow_version="1.0,2.0" prov_capabilities_per_version="bsp_gen3">
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
