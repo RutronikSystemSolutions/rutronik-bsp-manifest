@@ -5,10 +5,10 @@
       <version>
         <commit>latest-v1.X</commit>
         <dependees>
-	<dependee>
+			<dependee>
             <id>cat1cm0p</id>
             <commit>latest-v1.X</commit>
-          </dependee>
+			</dependee>
           <dependee>
             <id>core-lib</id>
             <commit>latest-v1.X</commit>
