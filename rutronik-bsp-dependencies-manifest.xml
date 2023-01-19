@@ -5,7 +5,7 @@
       <version>
         <commit>latest-v1.X</commit>
         <dependees>
-	  <dependee>
+          <dependee>
             <id>cat1cm0p</id>
             <commit>latest-v1.X</commit>
           </dependee>
@@ -34,7 +34,7 @@
       <version>
         <commit>release-v1.0.0</commit>
         <dependees>
-	  <dependee>
+          <dependee>
             <id>cat1cm0p</id>
             <commit>latest-v1.X</commit>
           </dependee>
