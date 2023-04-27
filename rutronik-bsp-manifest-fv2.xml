@@ -44,4 +44,54 @@
       </version>
     </versions>
   </board>
+  <board default_location="local">
+    <id>RDK3</id>
+    <category>PSoC&#8482; 6 BSPs</category>
+    <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK3</board_uri>
+    <chips>
+      <mcu>CYB06447BZI-BLD53</mcu>
+    </chips>
+    <name>RDK3</name>
+    <summary>The Development Kit RDK3 provides a complete solution for hardware and firmware developers to design their own proof-of-concepts. Unique combination of state-of-the-art components, all available in Rutronik's product portfolio.</summary>
+    <prov_capabilities>adc arduino ble bsp_gen4 capsense cat1 cat1a comp dac dma flash_832k hal i2c led low_power lptimer mcu_gp opamp psoc6 qspi rdk3 rtc secure_boot smart_io spi sram_288k std_crypto switch uart udb</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">RDK3 Features:</div><ul>
+		<li>Infineon’s High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth LE.</li>
+		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
+		<li>Infineon S25FL064LABNFI043 External QSPI 64Mbit NOR Flash.</li>
+        <li>Ready-to-Use CAPSENSE&#8482; Buttons.</li>
+	    <li>APMemory External QSPI 16Mbit PSRAM Memory.</li>
+		<li>The Keystone CR1220 coin battery holder.</li>
+		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
+		<li>10-pin ARM SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
+		<li>On-board 2.45GHz Bluetooth antenna from Kyocera AVX.</li>
+		<li>U.FL connector for the external Bluetooth antenna from Amphenol RF.</li>
+		<li>Kyocera AVX multilayer ceramic transient voltage suppressors for the USB.</li>
+		<li>Kyocera AVX 9296 series POKE-HOME connectors.</li>
+		<li>BD83070GWL Buck/Boost Switching mode power supply from ROHM. Easy to change output voltages between 3.3V and 2.5V.</li>
+		<li>Single Cell Li-ION Battery charger DIO59020CD12 with USB-OTG Boost from DIOO.</li>
+		<li>TCK1024G,LF TOSHIBA Load Switches (with the current limiting capability).</li>
+		<li>NISSHINBO low power amplifier (acts as voltage follower and buffer in KitProg3 circuit).</li>
+		<li>Amphenol ICC Arduino Headers. Part No: 75915-306LF; 75915-308LF; 75915-310LF;</li>
+		<li>DIPTRONICS tactile buttons. Part No: TBFF22KQR.</li>
+		<li>EVQPUC02K Right-angled tactile switch from Panasonic.</li>
+		<li>RM107002BCB Rotary switch for power supply selections from C&K.</li>
+		<li>JS202011JCQN Slider switch for power supply selections from C&K.</li>
+		<li>PIHER Potentiometer for ADC peripheral evaluation. Part No.: PT10YV10-103A2020-5-S.</li>
+		<li>Passive components from Samsung EM, Yageo, and ASJ.</li>
+		<li>CHILISIN Power Inductors. Part No: BKPA002012102R2M00; BDUE002520121R5MQ1; muRata Ferrite Beads. Part No: BLM15BD102SN1D.</li>
+        </ul><p/>
+      ]]></description>
+    <documentation_url>https://github.com/RutronikSystemSolutions/RDK3_Documents</documentation_url>
+    <versions>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>Latest v1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
 </boards>
