@@ -94,4 +94,47 @@
       </version>
     </versions>
   </board>
+  <board default_location="local">
+    <id>RDK4</id>
+    <category>PSoC&#8482; 4 BSPs</category>
+    <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK4</board_uri>
+    <chips>
+      <mcu>CY8C4149AZE-S598</mcu>
+    </chips>
+    <name>RDK4</name>
+    <summary>The development kit RDK4 is based on an automotive PSoC 4100S Max microcontroller and TLE9262-3BQX System-Basis-Chip. The RDK4 is a solution created by Rutronik that enables developers to evaluate and implement their ideas into their automotive or industrial projects.</summary>
+    <prov_capabilities>adc arduino bsp_gen4 can capsense cat2 comp dma flash_384k hal i2c led rgb_led lin lptimer mcu_gp msc msc_button opamp psoc4 smart_io spi sram_32k std_crypto switch rdk4 uart udb</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">RDK3 Features:</div><ul>
+		<li>CY8C4149AZE-S598 – Infineon’s Arm® Cortex™-M0+ AEC-Q100 compliant MCU.</li>
+		<li>All CY8C4149AZE-S598 GPIOs are accessible via onboard headers.</li>
+		<li>TLE9262-3BQXV33 - Infineon’s System Basis Chip for automotive applications.</li>
+		<li>On-board debugger KitProg3 with I2C and UART USB bridge.</li>
+		<li>10-pin Amphenol ICC SWD header for J-Link. </li>
+		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
+		<li>Minitek MicroSpace™ CAN FD connector.</li>
+		<li>On-board capacitive buttons based on CapSense® CSX technology.</li>
+		<li>TOPLED® E1608 and OSIRE® E3635 OSRAM LEDs.</li>
+		<li>Diodes Inc. automotive PNP Power Transistor BCP5216TA for the SBC LDO circuit.</li>
+		<li>Keystone Electronics Corp. P/N5019 GND test point.</li>
+		<li>TOSHIBA Load Switch (with the current limiting capability) TCK22946G,LF.</li>
+		<li>NISSHINBO low power amplifier NJU77001F.</li>
+		<li>DIPTRONICS tactile buttons.</li>
+		<li>Panasonic Right-angled RESET switch.</li>
+		<li>C&K Slider switches for power supply selection and hardware configuration.</li>
+		<li>Passive components from Samsung EM, Yageo, and ASJ.</li>
+        </ul><p/>
+      ]]></description>
+    <documentation_url>https://github.com/RutronikSystemSolutions/RDK4_Documents</documentation_url>
+    <versions>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>Latest v1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
 </boards>
