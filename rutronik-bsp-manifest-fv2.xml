@@ -105,7 +105,7 @@
     <summary>The development kit RDK4 is based on an automotive PSoC 4100S Max microcontroller and TLE9262-3BQX System-Basis-Chip. The RDK4 is a solution created by Rutronik that enables developers to evaluate and implement their ideas into their automotive or industrial projects.</summary>
     <prov_capabilities>adc arduino bsp_gen4 can capsense cat2 comp dma flash_384k hal i2c led rgb_led lin lptimer mcu_gp msc msc_button opamp psoc4 smart_io spi sram_32k std_crypto switch rdk4 uart udb</prov_capabilities>
     <description><![CDATA[
-        <div class="category">RDK3 Features:</div><ul>
+        <div class="category">RDK4 Features:</div><ul>
 		<li>CY8C4149AZE-S598 – Infineon’s Arm® Cortex™-M0+ AEC-Q100 compliant MCU.</li>
 		<li>All CY8C4149AZE-S598 GPIOs are accessible via onboard headers.</li>
 		<li>TLE9262-3BQXV33 - Infineon’s System Basis Chip for automotive applications.</li>
