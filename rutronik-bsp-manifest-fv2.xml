@@ -14,7 +14,7 @@
 		<li>Infineon CY8C6245AZI-S3D72 Ultra-low-power high-performance microcontroller.</li>
 		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
 		<li>A 512MBit SEMPER™ NOR Flash connected with microcontroller QSPI.</li>
-        <li>Ready-to-Use CAPSENSE&#8482; Slider</li>
+        <li>Ready-to-Use CAPSENSE™ Slider</li>
 		<li>A stand-alone power delivery controller CYPD3177 from Infineon and Type-C connector from JAE.</li>
 	    <li>The AP Memory 64MBit APS6404L-3SQR-ZR PSRAM connected with microcontroller QSPI.</li>
 		<li>nPM1100 Li-ION Charger from Nordic Semiconductor.</li>
@@ -56,16 +56,16 @@
     <prov_capabilities>adc arduino ble bsp_gen4 capsense cat1 cat1a comp dac dma flash_832k hal i2c led low_power lptimer mcu_gp opamp psoc6 qspi rdk3 rtc secure_boot smart_io spi sram_288k std_crypto switch uart udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK3 Features:</div><ul>
-		<li>Infineon’s High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth LE.</li>
+		<li>Infineon’s High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth&#174; LE.</li>
 		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
 		<li>Infineon S25FL064LABNFI043 External QSPI 64Mbit NOR Flash.</li>
-        <li>Ready-to-Use CAPSENSE&#8482; Buttons.</li>
-	    <li>APMemory External QSPI 16Mbit PSRAM Memory.</li>
+        <li>Ready-to-Use CAPSENSE™ Buttons.</li>
+	    <li>AP Memory External QSPI 16Mbit PSRAM Memory.</li>
 		<li>The Keystone CR1220 coin battery holder.</li>
 		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
 		<li>10-pin ARM SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
-		<li>On-board 2.45GHz Bluetooth antenna from Kyocera AVX.</li>
-		<li>U.FL connector for the external Bluetooth antenna from Amphenol RF.</li>
+		<li>On-board 2.45GHz Bluetooth&#174; antenna from Kyocera AVX.</li>
+		<li>U.FL connector for the external Bluetooth&#174; antenna from Amphenol RF.</li>
 		<li>Kyocera AVX multilayer ceramic transient voltage suppressors for the USB.</li>
 		<li>Kyocera AVX 9296 series POKE-HOME connectors.</li>
 		<li>BD83070GWL Buck/Boost Switching mode power supply from ROHM. Easy to change output voltages between 3.3V and 2.5V.</li>
@@ -113,8 +113,8 @@
 		<li>10-pin Amphenol ICC SWD header for J-Link. </li>
 		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
 		<li>Minitek MicroSpace™ CAN FD connector.</li>
-		<li>On-board capacitive buttons based on CapSense® CSX technology.</li>
-		<li>TOPLED® E1608 and OSIRE® E3635 OSRAM LEDs.</li>
+		<li>On-board capacitive buttons based on CAPSENSE™ CSX technology.</li>
+		<li>TOPLED&#174; E1608 and OSIRE&#174; E3635 OSRAM LEDs.</li>
 		<li>Diodes Inc. automotive PNP Power Transistor BCP5216TA for the SBC LDO circuit.</li>
 		<li>Keystone Electronics Corp. P/N5019 GND test point.</li>
 		<li>TOSHIBA Load Switch (with the current limiting capability) TCK22946G,LF.</li>
