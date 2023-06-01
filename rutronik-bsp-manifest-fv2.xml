@@ -39,8 +39,8 @@
         <commit>latest-v1.X</commit>
       </version>
       <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
-        <num>1.0.0 release</num>
-        <commit>release-v1.0.0</commit>
+        <num>1.0.1 release</num>
+        <commit>release-v1.0.1</commit>
       </version>
     </versions>
   </board>
