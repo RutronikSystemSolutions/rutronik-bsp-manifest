@@ -13,8 +13,8 @@
         <div class="category">RDK2 Features:</div><ul>
 		<li>Infineon CY8C6245AZI-S3D72 Ultra-low-power high-performance microcontroller.</li>
 		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
-		<li>A 512MBit SEMPER™ NOR Flash connected with microcontroller QSPI.</li>
-        <li>Ready-to-Use CAPSENSE™ Slider</li>
+		<li>A 512MBit SEMPER&#8482; NOR Flash connected with microcontroller QSPI.</li>
+        <li>Ready-to-Use CAPSENSE&#8482; Slider</li>
 		<li>A stand-alone power delivery controller CYPD3177 from Infineon and Type-C connector from JAE.</li>
 	    <li>The AP Memory 64MBit APS6404L-3SQR-ZR PSRAM connected with microcontroller QSPI.</li>
 		<li>nPM1100 Li-ION Charger from Nordic Semiconductor.</li>
@@ -59,7 +59,7 @@
 		<li>Infineon’s High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth&#174; LE.</li>
 		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
 		<li>Infineon S25FL064LABNFI043 External QSPI 64Mbit NOR Flash.</li>
-        <li>Ready-to-Use CAPSENSE™ Buttons.</li>
+        <li>Ready-to-Use CAPSENSE&#8482; Buttons.</li>
 	    <li>AP Memory External QSPI 16Mbit PSRAM Memory.</li>
 		<li>The Keystone CR1220 coin battery holder.</li>
 		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
@@ -106,14 +106,14 @@
     <prov_capabilities>adc arduino bsp_gen4 can capsense cat2 comp dma flash_384k hal i2c led rgb_led lin lptimer mcu_gp msc msc_button opamp psoc4 smart_io spi sram_32k std_crypto switch rdk4 uart udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK4 Features:</div><ul>
-		<li>CY8C4149AZE-S598 – Infineon’s Arm® Cortex™-M0+ AEC-Q100 compliant MCU.</li>
+		<li>CY8C4149AZE-S598 – Infineon’s Arm&#174; Cortex&#8482;-M0+ AEC-Q100 compliant MCU.</li>
 		<li>All CY8C4149AZE-S598 GPIOs are accessible via onboard headers.</li>
 		<li>TLE9262-3BQXV33 - Infineon’s System Basis Chip for automotive applications.</li>
 		<li>On-board debugger KitProg3 with I2C and UART USB bridge.</li>
 		<li>10-pin Amphenol ICC SWD header for J-Link. </li>
 		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
-		<li>Minitek MicroSpace™ CAN FD connector.</li>
-		<li>On-board capacitive buttons based on CAPSENSE™ CSX technology.</li>
+		<li>Minitek MicroSpace&#8482; CAN FD connector.</li>
+		<li>On-board capacitive buttons based on CAPSENSE&#8482; CSX technology.</li>
 		<li>TOPLED&#174; E1608 and OSIRE&#174; E3635 OSRAM LEDs.</li>
 		<li>Diodes Inc. automotive PNP Power Transistor BCP5216TA for the SBC LDO circuit.</li>
 		<li>Keystone Electronics Corp. P/N5019 GND test point.</li>
