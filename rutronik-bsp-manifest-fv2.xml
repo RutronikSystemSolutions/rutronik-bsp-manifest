@@ -8,7 +8,7 @@
     </chips>
     <name>RDK2</name>
     <summary>The Development Kit RDK2 offers a complete solution for hardware and firmware developers and a basis for a modular toolkit, so that proof of concepts can be created in a very short time. All components of the BOM can be found in the Rutronik portfolio.</summary>
-    <prov_capabilities>adc arduino bsp_gen4 can capsense capsense_linear_slider cat1 cat1a comp csd dma flash_512k hal i2c i2s led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pdm pot psoc6 qspi rdk2 rtc sdhc smart_io spi sram_256k std_crypto switch uart usb_device usb_host udb</prov_capabilities>
+    <prov_capabilities>adc arduino bsp_gen4 can capsense capsense_linear_slider cat1 cat1a comp csd dma flash_512k hal i2c led low_power lptimer mcu_gp memory memory_qspi multi_core nor_flash pot psoc6 qspi rdk2 rtc sdhc smart_io spi sram_256k std_crypto switch uart usb_device usb_host udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK2 Features:</div><ul>
 		<li>Infineon CY8C6245AZI-S3D72 Ultra-low-power high-performance microcontroller.</li>
