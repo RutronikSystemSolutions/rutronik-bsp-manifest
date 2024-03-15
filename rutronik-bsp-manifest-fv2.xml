@@ -25,7 +25,7 @@
 		<li>Micro SD Card Socket from ADAM TECH.</li>
 		<li>CAN FD Terminal Minitek MicrospaceTM connector in combination with CAN FD driver TLE9251VLE.</li>
 		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
-		<li>10-pin ARM SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
+		<li>10-pin Arm&#174; SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
 		<li>The Buttons: High quality and durability mechanical buttons from Panasonic.</li>
 		<li>The Onboard Power Management: Based on Diodes Inc. and ROHM products.</li>
 		<li>ADAM TECH ADC-028-1-T/R-PA10T DC Connector</li>
@@ -63,7 +63,7 @@
 	    <li>AP Memory External QSPI 16Mbit PSRAM Memory.</li>
 		<li>The Keystone CR1220 coin battery holder.</li>
 		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
-		<li>10-pin ARM SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
+		<li>10-pin Arm&#174; SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
 		<li>On-board 2.45GHz Bluetooth&#174; antenna from Kyocera AVX.</li>
 		<li>U.FL connector for the external Bluetooth&#174; antenna from Amphenol RF.</li>
 		<li>Kyocera AVX multilayer ceramic transient voltage suppressors for the USB.</li>
