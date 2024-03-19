@@ -23,7 +23,7 @@
 		<li>The DIP switch from DIPTRONICS enables to disconnect of the RESET signal from the Arduino socket.</li>
 		<li>Tiny but useful potentiometer-trimmer with a knob from PIHER.</li>
 		<li>Micro SD Card Socket from ADAM TECH.</li>
-		<li>CAN FD Terminal Minitek MicrospaceTM connector in combination with CAN FD driver TLE9251VLE.</li>
+		<li>CAN FD Terminal Minitek Microspace&#8482; connector in combination with CAN FD driver TLE9251VLE.</li>
 		<li>Test point contacts from Keystone enable current measurement using an oscilloscope or multimeter.</li>
 		<li>10-pin Arm&#174; SWD Amphenol connector used for connecting third-party debuggers as J-Link etc.</li>
 		<li>The Buttons: High quality and durability mechanical buttons from Panasonic.</li>
@@ -56,7 +56,7 @@
     <prov_capabilities>adc arduino ble bsp_gen4 capsense cat1 cat1a comp dac dma flash_832k hal i2c led low_power lptimer mcu_gp opamp psoc6 qspi rdk3 rtc secure_boot smart_io spi sram_288k std_crypto switch uart udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK3 Features:</div><ul>
-		<li>Infineon’s High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth&#174; LE.</li>
+		<li>Infineon's High-Performance, Ultra-Low-Power Secured CYB06447BZI-BLD53 MCU with integrated Bluetooth&#174; LE.</li>
 		<li>The KitProg3 Debugger based on a CY8C5868LTI-LP039 microcontroller.</li>
 		<li>Infineon S25FL064LABNFI043 External QSPI 64Mbit NOR Flash.</li>
         <li>Ready-to-Use CAPSENSE&#8482; Buttons.</li>
@@ -106,9 +106,9 @@
     <prov_capabilities>adc arduino bsp_gen4 can capsense cat2 comp dma flash_384k hal i2c led rgb_led lin lptimer mcu_gp msc msc_button opamp psoc4 smart_io spi sram_32k std_crypto switch rdk4 uart udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK4 Features:</div><ul>
-		<li>CY8C4149AZE-S598 – Infineon’s Arm&#174; Cortex&#8482;-M0+ AEC-Q100 compliant MCU.</li>
+		<li>CY8C4149AZE-S598 - Infineon's Arm&#174; Cortex&#8482;-M0+ AEC-Q100 compliant MCU.</li>
 		<li>All CY8C4149AZE-S598 GPIOs are accessible via onboard headers.</li>
-		<li>TLE9262-3BQXV33 - Infineon’s System Basis Chip for automotive applications.</li>
+		<li>TLE9262-3BQXV33 - Infineon's System Basis Chip for automotive applications.</li>
 		<li>On-board debugger KitProg3 with I2C and UART USB bridge.</li>
 		<li>10-pin Amphenol ICC SWD header for J-Link. </li>
 		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
