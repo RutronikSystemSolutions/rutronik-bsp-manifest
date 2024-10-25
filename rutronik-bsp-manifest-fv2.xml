@@ -1,7 +1,7 @@
 <boards>
   <board default_location="local">
     <id>RDK2</id>
-    <category>PSoC&#8482; 6 BSPs</category>
+    <category>PSOC&#8482; 6 BSPs</category>
     <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK2</board_uri>
     <chips>
       <mcu>CY8C6245AZI-S3D72</mcu>
@@ -46,7 +46,7 @@
   </board>
   <board default_location="local">
     <id>RDK3</id>
-    <category>PSoC&#8482; 6 BSPs</category>
+    <category>PSOC&#8482; 6 BSPs</category>
     <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK3</board_uri>
     <chips>
       <mcu>CYB06447BZI-BLD53</mcu>
@@ -96,13 +96,13 @@
   </board>
   <board default_location="local">
     <id>RDK4</id>
-    <category>PSoC&#8482; 4 BSPs</category>
+    <category>PSOC&#8482; 4 BSPs</category>
     <board_uri>https://github.com/RutronikSystemSolutions/TARGET_RDK4</board_uri>
     <chips>
       <mcu>CY8C4149AZE-S598</mcu>
     </chips>
     <name>RDK4</name>
-    <summary>The development kit RDK4 is based on an automotive PSoC 4100S Max microcontroller and TLE9262-3BQX System-Basis-Chip. The RDK4 is a solution created by Rutronik that enables developers to evaluate and implement their ideas into their automotive or industrial projects.</summary>
+    <summary>The development kit RDK4 is based on an automotive PSOC 4100S Max microcontroller and TLE9262-3BQX System-Basis-Chip. The RDK4 is a solution created by Rutronik that enables developers to evaluate and implement their ideas into their automotive or industrial projects.</summary>
     <prov_capabilities>adc arduino bsp_gen4 can capsense cat2 comp dma flash_384k hal i2c led rgb_led lin lptimer mcu_gp msc msc_button opamp psoc4 smart_io spi sram_32k std_crypto switch rdk4 uart udb</prov_capabilities>
     <description><![CDATA[
         <div class="category">RDK4 Features:</div><ul>
