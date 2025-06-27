@@ -32,7 +32,7 @@
         </dependees>
       </version>
       <version>
-        <commit>release-v1.0.1</commit>
+        <commit>release-v1.0.0</commit>
         <dependees>
           <dependee>
             <id>cat1cm0p</id>
