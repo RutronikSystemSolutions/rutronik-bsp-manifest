@@ -180,7 +180,7 @@
       </version>
     </versions>
   </depender>
-    <depender>
+  <depender>
     <id>RAK_GAN</id>
     <versions>
       <version>
