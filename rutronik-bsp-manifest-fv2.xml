@@ -137,4 +137,48 @@
       </version>
     </versions>
   </board>
+  <board default_location="local">
+    <id>RAK_GAN</id>
+    <category>PSOC&#8482; Control BSPs</category>
+    <board_uri>https://github.com/RutronikSystemSolutions/TARGET_APP_RAK_GAN</board_uri>
+    <chips>
+      <mcu>PSC3M5FDS2AFQ1</mcu>
+    </chips>
+    <name>RAK_GAN</name>
+    <summary>The RAK GaN combines Rutronik’s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
+    <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c kit_psc3m5_cc1 low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">RAK-GAN Features:</div><ul>
+		<li>KIT_PSC3M5_CC1 - Infineon’s Devkit with PSOC&#8482 Control C3M5 MCU onboard.</li>
+		<li>IGB070S10S1XTMA1 - Infineon’s CoolGaN&#8482 Transistors for DC/DC Converter and Motor Driver Bridges.</li>
+		<li>ISC035N10NM5LF2 - Infineon’s OptiMOS&#8482 5 Linear FET 2 Transistor for Power Input Control.</li>
+		<li>1EDN7136UXTSA1 - Infineon’s High-side TDI GaN SG HEMT gate drivers.</li>
+		<li>1EDL8011XUMA1 - Infineon’s EiceDRIVER#8482 125 V High Side Gate Driver for Power Input Control transistor./li>
+		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
+		<li>TLE5571 and TLE5572 - Infineon’s TMR Current Sensors.</li>
+		<li>TLE9371VSJXTMA1 - Infineon’s Signal improvement transceiver as CAN FD Driver.</li>
+		<li>R-78HE5.0-0.3 - RECOM’s 5V 300mA Power Supply Module.</li>
+		<li>V30K202-M3/H - VISHAY Schottky Diode for power input polarity protection.</li>
+		<li>B82559B5472A016 – EPCOS High Power Inductor.</li>
+		<li>39773-000x - Molex terminal blocks for CAN FD and Quadrature Encoder.</li>
+		<li>SK DC 16 58 SA - Extruded heatsink from Fischer Elektronik.</li>
+		<li>P/N: 1202 – 30A Screw Terminals from Keystone Electronics.</li>
+		<li>75915-3xxLF – Arduino Connectors from Amphenol ICC.</li>
+		<li>0463030.ER and V56MLA1812NRAUTO – Fuse and Varistor for power input protection from Littelfuse Inc.</li>
+		<li>PZS525V1 and PJE8408 – Zener Diodes and MOSFET from PANJIT Inc.</li>
+		<li>A786MS107M1JLAS015 - Aluminum Polymer Capacitor Radial from Yageo KEMET.</li>
+        </ul><p/>
+      ]]></description>
+    <documentation_url>https://github.com/RutronikSystemSolutions/RAK_GAN_Documents</documentation_url>
+    <versions>
+      <version tools_min_version="3.4.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
+        <num>Latest v1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version tools_min_version="3.4.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </board>
 </boards>
