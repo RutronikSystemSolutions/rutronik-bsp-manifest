@@ -149,11 +149,11 @@
     <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c kit_psc3m5_cc1 low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
     <description><![CDATA[
         <div class="category">RAK-GAN Features:</div><ul>
-		<li>KIT_PSC3M5_CC1 - Infineon’s Devkit with PSOC&amp;#8482; Control C3M5 MCU onboard.</li>
-		<li>IGB070S10S1XTMA1 - Infineon’s CoolGaN&amp;#8482; Transistors for DC/DC Converter and Motor Driver Bridges.</li>
-		<li>ISC035N10NM5LF2 - Infineon’s OptiMOS&amp;#8482; 5 Linear FET 2 Transistor for Power Input Control.</li>
+		<li>KIT_PSC3M5_CC1 - Infineon’s Devkit with PSOC&#8482; Control C3M5 MCU onboard.</li>
+		<li>IGB070S10S1XTMA1 - Infineon’s CoolGaN&#8482; Transistors for DC/DC Converter and Motor Driver Bridges.</li>
+		<li>ISC035N10NM5LF2 - Infineon’s OptiMOS&#8482; 5 Linear FET 2 Transistor for Power Input Control.</li>
 		<li>1EDN7136UXTSA1 - Infineon’s High-side TDI GaN SG HEMT gate drivers.</li>
-		<li>1EDL8011XUMA1 - Infineon’s EiceDRIVER&amp;#8482; 125 V High Side Gate Driver for Power Input Control transistor./li>
+		<li>1EDL8011XUMA1 - Infineon’s EiceDRIVER&#8482; 125 V High Side Gate Driver for Power Input Control transistor.</li>
 		<li>JAE USB Type-C connector for the KitProg3 debugger.</li>
 		<li>TLE5571 and TLE5572 - Infineon’s TMR Current Sensors.</li>
 		<li>TLE9371VSJXTMA1 - Infineon’s Signal improvement transceiver as CAN FD Driver.</li>
