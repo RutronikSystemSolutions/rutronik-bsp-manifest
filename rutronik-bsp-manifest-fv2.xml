@@ -145,7 +145,7 @@
       <mcu>PSC3M5FDS2AFQ1</mcu>
     </chips>
     <name>RAK_GAN</name>
-    <summary>The RAK GaN combines Rutronik’s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
+    <summary>The RAK GaN combines Rutronik&#x2019;s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
     <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c kit_psc3m5_cc1 low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
     <description><![CDATA[
         <div class="category">RAK-GAN Features:</div><ul>
