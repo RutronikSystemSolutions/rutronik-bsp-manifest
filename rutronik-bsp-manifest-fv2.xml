@@ -138,13 +138,13 @@
     </versions>
   </board>
   <board default_location="local">
-    <id>RAK_GAN</id>
+    <id>APP_RAK_GAN</id>
     <category>PSOC&#8482; Control BSPs</category>
     <board_uri>https://github.com/RutronikSystemSolutions/TARGET_APP_RAK_GAN</board_uri>
     <chips>
       <mcu>PSC3M5FDS2AFQ1</mcu>
     </chips>
-    <name>RAK_GAN</name>
+    <name>APP_RAK_GAN</name>
     <summary>The RAK GaN combines Rutronik&#x2019;s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
     <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
     <description><![CDATA[
