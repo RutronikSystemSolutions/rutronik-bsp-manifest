@@ -181,7 +181,7 @@
     </versions>
   </depender>
   <depender>
-    <id>APP_RAK_GAN</id>
+    <id>RAK_GAN</id>
     <versions>
       <version>
         <commit>latest-v1.X</commit>
