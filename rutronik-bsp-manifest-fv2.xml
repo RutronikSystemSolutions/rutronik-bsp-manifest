@@ -171,11 +171,11 @@
       ]]></description>
     <documentation_url>https://github.com/RutronikSystemSolutions/RAK_GAN_Documents</documentation_url>
     <versions>
-      <version tools_min_version="3.3.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
         <num>Latest v1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version tools_min_version="3.3.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+      <version tools_min_version="3.0.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
