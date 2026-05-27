@@ -146,7 +146,7 @@
     </chips>
     <name>RAK_GAN</name>
     <summary>The RAK GaN combines Rutronik&#x2019;s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
-    <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
+    <prov_capabilities>adc led bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
     <description><![CDATA[
         <div class="category">RAK-GAN Features:</div><ul>
 		<li>KIT_PSC3M5_CC1 - Infineon’s Devkit with PSOC&#8482; Control C3M5 MCU onboard.</li>
