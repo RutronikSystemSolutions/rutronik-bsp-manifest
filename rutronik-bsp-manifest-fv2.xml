@@ -146,7 +146,7 @@
     </chips>
     <name>RAK_GAN</name>
     <summary>The RAK GaN combines Rutronik&#x2019;s extensive technical expertise into a compact development platform that enables our customers to quickly and cost-effectively implement modern motor control applications using GaN technology.</summary>
-    <prov_capabilities>adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
+    <prov_capabilities>rak_gan adc bsp_gen5 cat1 cat1b comp dma flash_256k hal hppass i2c low_power lptimer mcu_gp psc3m5 rtc smart_io spi sram_64k std_crypto uart</prov_capabilities>
     <description><![CDATA[
         <div class="category">RAK-GAN Features:</div><ul>
 		<li>KIT_PSC3M5_CC1 - Infineon’s Devkit with PSOC&#8482; Control C3M5 MCU onboard.</li>
@@ -171,11 +171,11 @@
       ]]></description>
     <documentation_url>https://github.com/RutronikSystemSolutions/RAK_GAN_Documents</documentation_url>
     <versions>
-      <version tools_min_version="3.4.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
+      <version tools_min_version="3.3.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
         <num>Latest v1.X release</num>
         <commit>latest-v1.X</commit>
       </version>
-      <version tools_min_version="3.4.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
+      <version tools_min_version="3.3.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
         <num>1.0.0 release</num>
         <commit>release-v1.0.0</commit>
       </version>
