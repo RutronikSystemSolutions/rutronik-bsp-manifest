@@ -169,7 +169,7 @@
 		<li>A786MS107M1JLAS015 - Aluminum Polymer Capacitor Radial from Yageo KEMET.</li>
         </ul><p/>
       ]]></description>
-    <documentation_url>https://github.com/RutronikSystemSolutions/RAK_GAN_Documents</documentation_url>
+    <documentation_url>https://github.com/RutronikSystemSolutions/RAK-GaN_Documents</documentation_url>
     <versions>
       <version tools_min_version="3.3.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen5">
         <num>Latest v1.X release</num>
